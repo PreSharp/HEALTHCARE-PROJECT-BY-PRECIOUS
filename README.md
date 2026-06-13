@@ -56,6 +56,7 @@ The dataset was cleaned and prepared in Microsoft Excel to ensure accuracy and c
 
 ### Dashboard Visualizations
 
+![Screenshot of the Dashboard](HEALTHCARE%20PERFOMANCE.png)
 
 * Patient Admissions Trend
 * Department Performance Analysis
@@ -65,9 +66,8 @@ The dataset was cleaned and prepared in Microsoft Excel to ensure accuracy and c
 * Monthly Performance Tracking
 * Operational Efficiency Metrics
 
----
 
-## 🔑 Key Insights
+## Key Insights
 
 * Identifies top-performing departments and service areas.
 * Highlights patient care trends and treatment outcomes.
@@ -75,9 +75,8 @@ The dataset was cleaned and prepared in Microsoft Excel to ensure accuracy and c
 * Tracks operational efficiency and resource utilization.
 * Supports continuous performance improvement initiatives.
 
----
 
-## ✅ Benefits of the Dashboard
+## Benefits of the Dashboard
 
 * Enhances healthcare performance monitoring.
 * Improves decision-making through real-time insights.
@@ -86,32 +85,7 @@ The dataset was cleaned and prepared in Microsoft Excel to ensure accuracy and c
 * Enables effective resource allocation.
 * Promotes data-driven healthcare management.
 
----
-
-## 📈 Business Value
+## Business Value
 
 This dashboard provides healthcare administrators and decision-makers with actionable insights into organizational performance. By monitoring critical healthcare metrics, the dashboard helps improve patient outcomes, optimize operations, increase efficiency, and support strategic planning.
 
----
-
-## 👨‍💻 Skills Demonstrated
-
-* Data Cleaning
-* Data Validation
-* Data Analysis
-* Data Visualization
-* Dashboard Development
-* KPI Reporting
-* Business Intelligence
-* Healthcare Analytics
-* Microsoft Excel
-
----
-
-## 📷 Dashboard Preview
-
-```markdown
-![Healthcare Performance Dashboard](healthcare-performance-dashboard.png)
-```
-
-Replace the image file name above with your actual dashboard screenshot file name after uploading it to your GitHub repository.
